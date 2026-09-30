@@ -8,7 +8,6 @@ dengan **Augmented Reality (AR)** berbasis 8th Wall.
 ## 🔗 Link Penting
 
 | | |
-|---|---|
 | 📖 E-Book (buku interaktif) | https://drive.google.com/file/d/12Tj9hX1eQJSUc37IvSrL3nxNdrJplLpx/view |
 | 🌍 Dunia AR (8th Wall) | (https://christiananthony.8thwall.app/abcdef/) |
 
