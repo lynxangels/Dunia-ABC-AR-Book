@@ -3,7 +3,7 @@
 Media belajar mengenal huruf untuk anak usia 3–6 tahun yang memadukan **buku interaktif**
 dengan **Augmented Reality (AR)** berbasis 8th Wall.
 
-> Final Project mata kuliah **Human Computer Interaction (HCI)** – BINUS University
+> Final Project mata kuliah **Human Computer Interaction (HCI)** 
 
 ## 🔗 Link Penting
 
